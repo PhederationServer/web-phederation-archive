@@ -1,0 +1,163 @@
+table#serverlist th.col01,
+table#serverlist th.col02,
+table#serverlist th.col03
+{
+  background-color: #F9CB9C;
+}
+
+
+table#serverlist th.col04,
+table#serverlist th.col05,
+table#serverlist th.col06,
+table#serverlist th.col07,
+table#serverlist th.col08,
+table#serverlist th.col09
+{
+  background-color: #A2C4C9;
+}
+
+table#serverlist th.col10,
+table#serverlist th.col11,
+table#serverlist th.col12,
+table#serverlist th.col13
+{
+  background-color: #B4A7D6;
+}
+
+table#serverlist td.col01,
+table#serverlist td.col02,
+table#serverlist td.col03,
+table#serverlist td.col01links,
+table#serverlist td.col03notes
+{
+  background-color: #FCE5CD;
+}
+
+
+table#serverlist td.col04,
+table#serverlist td.col05,
+table#serverlist td.col06,
+table#serverlist td.col07,
+table#serverlist td.col08,
+table#serverlist td.col09
+{
+  background-color: #D0E0E3;
+}
+
+table#serverlist td.col10,
+table#serverlist td.col11,
+table#serverlist td.col12,
+table#serverlist td.col13
+{
+  background-color: #D9D2E9;
+}
+
+body
+{
+  background-color: #402658;
+  color: #B4A7D6;
+  font-family: Arial;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 4em;
+}
+
+table#serverlist
+{
+  color: #000000;
+  width: 90%;
+  margin: 0px auto;
+  border-spacing: 2px;
+}
+
+table#serverlist th, table#serverlist td
+{
+  border: solid 0px #402658;
+}
+
+table#serverlist th,
+table#serverlist td
+{
+  padding: 5px 10px;
+}
+
+table#serverlist th,
+table#serverlist td.col01,
+table#serverlist td.col02,
+table#serverlist td.col03,
+table#serverlist td.col04,
+table#serverlist td.col05,
+table#serverlist td.col06,
+table#serverlist td.col07,
+table#serverlist td.col08,
+table#serverlist td.col09,
+table#serverlist td.col10,
+table#serverlist td.col11,
+table#serverlist td.col12,
+table#serverlist td.col13,
+table#serverlist td.col01links
+{
+  text-align:center;
+}
+
+table#serverlist td.col01links i
+{
+  padding: 0px 10px;
+}
+
+a
+{
+  color: #0000FF;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: #FF0000;
+}
+
+table#serverlist td.col01
+{
+  font-size: 1.5em;
+}
+
+table#serverlist td.col01,
+table#serverlist td.col03,
+table#serverlist td.col07,
+table#serverlist td.col08
+{
+  font-weight: bold;
+}
+
+table#serverlist td.col09
+{
+  font-family: monospace;
+  font-size: 1.25em;
+}
+
+table#serverlist td.col01links,
+table#serverlist td.col03notes
+{
+  vertical-align: top;
+}
+
+table#serverlist td.col03notes
+{
+  line-height: 1.5em;
+}
+
+i.fa-solid
+{
+  font-size: 1.25em;
+  line-height: 1.5em;
+}
+
+p.footer
+{
+  text-align: center;
+  line-height: 1.5em;
+  margin-top: 50px;
+}
