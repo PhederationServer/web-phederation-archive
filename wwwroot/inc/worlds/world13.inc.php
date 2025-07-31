@@ -8,7 +8,7 @@
   $data[$world]["dateFile"] = "2025-02-15";
   $data[$world]["duration"] = "231 Days";
   $data[$world]["version"] = "1.21";
-  $data[$world]["size"] = "6.20 GB *TBC*";
+  $data[$world]["size"] = "6.20 GB";
   $data[$world]["seed"] = "7014583891508798282";
 
   $data[$world]["urlUpdate"] = "https://minecraft.wiki/w/Tricky_Trials";

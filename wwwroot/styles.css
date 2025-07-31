@@ -59,6 +59,13 @@ body
   font-family: Arial;
 }
 
+img.screenshot
+{
+  border: solid 2px #B4A7D6;
+  width: 75%;
+  margin-bottom: 120px;
+}
+
 h1
 {
   text-align: center;

@@ -50,6 +50,22 @@
   RenderServer($data["skyblock"]);
 ?>
 
+      <tr>
+        <td colspan=13>&nbsp;</td>
+      </tr>
+      <tr>
+        <th colspan=13 class="col10">Image Albums</th>
+      </tr>
+      <tr>
+        <td colspan=13 class="col10">
+          <p>
+            <a href="https://imgur.com/a/RH1oeCZ" target="_blank">Spawn</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://imgur.com/a/RH1oeCZ" target="_blank">Nether</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://imgur.com/a/phederation-server-biome-top-downs-QeZ3OF9" target="_blank">Biome</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://imgur.com/a/czMPbSH" target="_blank">Full</a>
+        </p>
+        <p><a href="screenshots/phedran-1.php">Phedran&apos;s Phederation 10 Years Screenshots</a></p>
+      </tr>
     </table>
     <p class="footer">Data gathering, research, and images by: Phedran<br />Web page and BlueMap configuration by: DP_Dave</p>
   </body>

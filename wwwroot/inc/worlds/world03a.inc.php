@@ -22,5 +22,5 @@
   $data[$world]["imgBiome"] = GetImgurUrl("0rlVxcN");
   $data[$world]["imgFull"] = GetImgurUrl("pxMYHGn");
 
-  $data[$world]["notes"] = "Kait Prank, Boats Fixed, Pre-Rockets Elytra, Brad's Baby Zombie House Chase, Mesa Shop Town, Suggestive Town Hall, Ocean Full of Trap Horses";
+  $data[$world]["notes"] = "Kait Prank, Boats Fixed, Pre-Rockets Elytra, Brad's Baby Zombie House Chase, Mesa Shop Town, Suggestive Town Hall, Ocean Full of Trap Horses, Franklin";
 ?>

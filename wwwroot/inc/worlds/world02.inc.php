@@ -14,7 +14,7 @@
   $data[$world]["urlUpdate"] = "https://minecraft.wiki/w/Bountiful_Update";
   $data[$world]["urlVersion"] = "https://minecraft.wiki/w/Java_Edition_1.8.1";
 
-  $data[$world]["download"] = "02PhederationFirstServer1-8-1.zip";
+  $data[$world]["download"] = "02PhederationSecondServer1-8-1.zip";
   $data[$world]["bluemap"] = "world02";
 
   $data[$world]["imgSpawn"] = GetImgurUrl("cEjH7mg");
