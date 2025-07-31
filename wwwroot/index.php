@@ -28,7 +28,9 @@
   require_once("inc/worlds/world11.inc.php");
   require_once("inc/worlds/world12.inc.php");
   require_once("inc/worlds/world13.inc.php");
-  require_once("inc/worlds/world14.inc.php");
+  require_once("inc/worlds/world14a.inc.php");
+  require_once("inc/worlds/world14b.inc.php");
+  require_once("inc/worlds/world14c.inc.php");
   require_once("inc/worlds/skyblock.inc.php");
 
   RenderServer($data["world01"]);
@@ -46,7 +48,9 @@
   RenderServer($data["world11"]);
   RenderServer($data["world12"]);
   RenderServer($data["world13"]);
-  RenderServer($data["world14"]);
+  RenderServer($data["world14a"]);
+  RenderServer($data["world14b"]);
+  RenderServer($data["world14c"]);
   RenderServer($data["skyblock"]);
 ?>
 

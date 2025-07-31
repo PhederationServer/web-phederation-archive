@@ -1,12 +1,12 @@
 <?php
-  $world = "world14";
+  $world = "world14a";
 
-  $data[$world]["number"] = "14";
+  $data[$world]["number"] = "14a";
   $data[$world]["update"] = "1.21.4";
   $data[$world]["updateName"] = "The Garden Awakens";
   $data[$world]["dateStart"] = "2025-02-15";
   $data[$world]["dateFile"] = "-";
-  $data[$world]["duration"] = "-";
+  $data[$world]["duration"] = "70 days";
   $data[$world]["version"] = "1.21.4";
   $data[$world]["size"] = "-";
   $data[$world]["seed"] = "-";
