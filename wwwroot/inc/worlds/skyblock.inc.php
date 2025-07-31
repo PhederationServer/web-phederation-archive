@@ -14,7 +14,7 @@
   $data[$world]["urlUpdate"] = "";
   $data[$world]["urlVersion"] = "";
 
-  $data[$world]["download"] = "SkyblockPhedran&amp;Avidya.zip";
+  $data[$world]["download"] = "SkyblockPhedran%26Avidya.zip";
   $data[$world]["bluemap"] = "skyblock";
 
   $data[$world]["imgSpawn"] = "";

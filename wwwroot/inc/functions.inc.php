@@ -6,6 +6,12 @@ function GetImgurUrl($id)
   return "https://imgur.com/" . $id;
 }
 
+function GetDownloadUrl($filename)
+{
+  //return "downloads/" . $filename;
+  return "https://f003.backblazeb2.com/file/PhederationServerArchive/zips/" . $filename;
+}
+
 function RenderServer($data)
 {
   if ($data["number"] != "01")
@@ -88,7 +94,7 @@ function RenderServer($data)
 
   if ($data["download"] != "")
   {
-    echo "          <a href=\"downloads/" . $data["download"] . "\" target=\"_blank\" title=\"Download\"><i class=\"fa-solid fa-download\"></i></a>";
+    echo "          <a href=\"" . GetDownloadUrl($data["download"]) . "\" target=\"_blank\" title=\"Download\"><i class=\"fa-solid fa-download\"></i></a>";
   }
 
   if ($data["bluemap"] != "")
